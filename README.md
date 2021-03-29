@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Instagram ](https://www.instagram.com/p_a_r_t_h_2809/) 
 - 😄 Pronouns: He/His
 
-[![GitHub iampawan](https://img.shields.io/github/followers/Parth-2000?label=follow&style=social)](https://github.com/Parth-2000)
+[![GitHub Parth-2000](https://img.shields.io/github/followers/Parth-2000?label=follow&style=social)](https://github.com/Parth-2000)
 
 
 
