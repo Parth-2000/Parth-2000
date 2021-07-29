@@ -1,7 +1,7 @@
 ## Hello I am  Parth 👋
 
 
-- 🔭 I’m currently working on ShareStories.
+- 🔭 I’m currently working on Ecommerce.
 - 🌱 I’m currently learning more about ML and Web Development.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Parth-2000).
 - 💬 Ask me about Web Development or any tech related stuff.
