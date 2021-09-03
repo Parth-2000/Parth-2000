@@ -1,7 +1,7 @@
 ## Hello I am  Parth 👋
 
 
-- 🔭 I’m currently working on Ecommerce.
+- 🔭 I’m currently working as React Developer Intern at NetArt.
 - 🌱 I’m currently learning more about ML, Web Development and Automation.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Parth-2000).
 - 💬 Ask me about Web Development or any tech related stuff.
