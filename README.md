@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as Software Engineer at Crest Data Systems.
-- 🌱 I’m currently learning more about Web Development, Golang and Automation.
+- 🌱 I’m currently learning more about Data Structure & Algorithm, Golang and Automation.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Parth-2000).
 - 💬 Ask me about Web Development or any tech related stuff.
 - 📫 How to reach me: [Instagram ](https://www.instagram.com/p_a_r_t_h_2809/) 
@@ -14,14 +14,17 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg"></code>  
+
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Parth2000&theme=dark&)
 
 
 <a href="https://github.com/Parth-2000">
